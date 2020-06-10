@@ -1,0 +1,10 @@
+D:\Foma\Documents\C#\Seterra Forms\bin\Debug\Seterra Forms.exe.config
+D:\Foma\Documents\C#\Seterra Forms\bin\Debug\Seterra Forms.exe
+D:\Foma\Documents\C#\Seterra Forms\bin\Debug\Seterra Forms.pdb
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra Forms.csprojResolveAssemblyReference.cache
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra_Forms.Properties.Resources.resources
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra Forms.csproj.GenerateResource.Cache
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra Forms.csproj.CoreCompileInputs.cache
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra Forms.exe
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra Forms.pdb
+D:\Foma\Documents\C#\Seterra Forms\obj\Debug\Seterra_Forms.Form1.resources
